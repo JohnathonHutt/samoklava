@@ -198,8 +198,7 @@ pcbs:
       reset:
         type: button
         anchor:
-          ref:
-            - matrix_inner_bottom
+          ref: matrix_inner_bottom
           shift: [17, 0]
           rotate: 270
         params:
